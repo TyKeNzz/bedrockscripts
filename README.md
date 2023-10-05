@@ -1,0 +1,2 @@
+# bedrockscripts
+for personal server
